@@ -1,0 +1,494 @@
+date,invoice,vendor,category,amount_eur
+2026-04-01,INV-2303,Vertex Tools,Equipment,615.25
+2026-04-01,INV-2606,CloudPeak Hosting,Software & IT,343.39
+2026-04-02,INV-2337,KontorClean AS,Facilities,577.37
+2026-04-02,INV-2397,Lindström Office,Office supplies,520.29
+2026-04-02,INV-2423,Aurora Marketing,Advertising,903.88
+2026-04-02,INV-2434,PaperTrail Print,Printing,139.84
+2026-04-02,INV-2542,Baltic Catering,Meals & events,339.20
+2026-04-02,INV-2567,PaperTrail Print,Printing,261.89
+2026-04-03,INV-2400,PaperTrail Print,Printing,73.60
+2026-04-03,INV-2507,PaperTrail Print,Printing,213.24
+2026-04-03,INV-2523,CloudPeak Hosting,Software & IT,327.08
+2026-04-03,INV-2527,NordFleet Fuel,Vehicle costs,542.21
+2026-04-03,INV-2574,PaperTrail Print,Printing,225.53
+2026-04-03,INV-2627,CloudPeak Hosting,Software & IT,267.26
+2026-04-03,INV-2669,Baltic Catering,Meals & events,308.53
+2026-04-04,INV-2477,KontorClean AS,Facilities,477.02
+2026-04-04,INV-2512,KontorClean AS,Facilities,155.60
+2026-04-04,INV-2625,CloudPeak Hosting,Software & IT,440.71
+2026-04-04,INV-2722,Aurora Marketing,Advertising,816.64
+2026-04-05,INV-2300,NordFleet Fuel,Vehicle costs,682.90
+2026-04-05,INV-2414,Vertex Tools,Equipment,766.83
+2026-04-05,INV-2504,Fjord Logistics,Shipping,418.20
+2026-04-05,INV-2791,Vertex Tools,Equipment,432.31
+2026-04-06,INV-2401,PaperTrail Print,Printing,322.94
+2026-04-06,INV-2412,Aurora Marketing,Advertising,1394.96
+2026-04-06,INV-2544,CloudPeak Hosting,Software & IT,126.45
+2026-04-06,INV-2595,KontorClean AS,Facilities,171.86
+2026-04-06,INV-2605,PaperTrail Print,Printing,248.02
+2026-04-06,INV-2632,KontorClean AS,Facilities,393.99
+2026-04-07,INV-2491,SafeDesk Insurance,Insurance,463.46
+2026-04-07,INV-2524,CloudPeak Hosting,Software & IT,439.18
+2026-04-07,INV-2674,SafeDesk Insurance,Insurance,740.89
+2026-04-07,INV-2773,KontorClean AS,Facilities,311.32
+2026-04-07,INV-2875,SafeDesk Insurance,Insurance,812.42
+2026-04-07,INV-2876,NordFleet Fuel,Vehicle costs,856.78
+2026-04-08,INV-2377,Lindström Office,Office supplies,851.11
+2026-04-08,INV-2473,Baltic Catering,Meals & events,248.70
+2026-04-08,INV-2569,Aurora Marketing,Advertising,421.99
+2026-04-08,INV-2783,CloudPeak Hosting,Software & IT,298.94
+2026-04-09,INV-2320,Fjord Logistics,Shipping,217.93
+2026-04-09,INV-2361,NordFleet Fuel,Vehicle costs,398.20
+2026-04-09,INV-2742,SafeDesk Insurance,Insurance,466.92
+2026-04-10,INV-2332,SafeDesk Insurance,Insurance,490.88
+2026-04-10,INV-2351,Vertex Tools,Equipment,451.32
+2026-04-10,INV-2353,Vertex Tools,Equipment,1007.31
+2026-04-10,INV-2458,Vertex Tools,Equipment,526.57
+2026-04-10,INV-2493,Fjord Logistics,Shipping,427.00
+2026-04-10,INV-2756,Fjord Logistics,Shipping,293.92
+2026-04-10,INV-2814,Baltic Catering,Meals & events,526.79
+2026-04-10,INV-2853,Fjord Logistics,Shipping,460.25
+2026-04-11,INV-2366,Vertex Tools,Equipment,554.27
+2026-04-11,INV-2455,KontorClean AS,Facilities,459.64
+2026-04-11,INV-2545,KontorClean AS,Facilities,446.82
+2026-04-11,INV-2768,Baltic Catering,Meals & events,270.43
+2026-04-12,INV-2343,SafeDesk Insurance,Insurance,272.53
+2026-04-12,INV-2553,KontorClean AS,Facilities,403.04
+2026-04-12,INV-2759,Fjord Logistics,Shipping,484.97
+2026-04-12,INV-2785,CloudPeak Hosting,Software & IT,350.27
+2026-04-12,INV-2827,Aurora Marketing,Advertising,774.38
+2026-04-13,INV-2309,NordFleet Fuel,Vehicle costs,379.14
+2026-04-13,INV-2662,KontorClean AS,Facilities,434.76
+2026-04-13,INV-2689,NordFleet Fuel,Vehicle costs,758.69
+2026-04-13,INV-2703,Lindström Office,Office supplies,1064.87
+2026-04-13,INV-2728,Fjord Logistics,Shipping,374.72
+2026-04-14,INV-2359,NordFleet Fuel,Vehicle costs,613.55
+2026-04-14,INV-2686,Aurora Marketing,Advertising,603.20
+2026-04-14,INV-2690,Aurora Marketing,Advertising,1229.65
+2026-04-14,INV-2391,Lindström Office,Office supplies,1287.50
+2026-04-15,INV-2420,Lindström Office,Office supplies,867.47
+2026-04-15,INV-2444,Lindström Office,Office supplies,1107.51
+2026-04-15,INV-2750,KontorClean AS,Facilities,507.37
+2026-04-15,INV-2784,PaperTrail Print,Printing,280.43
+2026-04-16,INV-2336,Fjord Logistics,Shipping,266.59
+2026-04-16,INV-2418,Lindström Office,Office supplies,1237.69
+2026-04-16,INV-2547,Aurora Marketing,Advertising,939.62
+2026-04-16,INV-2575,Vertex Tools,Equipment,572.22
+2026-04-16,INV-2638,Fjord Logistics,Shipping,398.59
+2026-04-16,INV-2650,Aurora Marketing,Advertising,352.68
+2026-04-16,INV-2668,Baltic Catering,Meals & events,493.25
+2026-04-16,INV-2801,NordFleet Fuel,Vehicle costs,762.82
+2026-04-16,INV-2844,Vertex Tools,Equipment,145.40
+2026-04-17,INV-2380,Aurora Marketing,Advertising,1515.31
+2026-04-17,INV-2550,KontorClean AS,Facilities,339.66
+2026-04-17,INV-2849,Vertex Tools,Equipment,253.01
+2026-04-18,INV-2402,Aurora Marketing,Advertising,210.65
+2026-04-18,INV-2671,Lindström Office,Office supplies,1059.07
+2026-04-18,INV-2839,Lindström Office,Office supplies,168.75
+2026-04-18,INV-2859,PaperTrail Print,Printing,246.12
+2026-04-19,INV-2301,Vertex Tools,Equipment,841.74
+2026-04-19,INV-2392,NordFleet Fuel,Vehicle costs,282.15
+2026-04-19,INV-2447,KontorClean AS,Facilities,502.69
+2026-04-19,INV-2652,PaperTrail Print,Printing,169.08
+2026-04-20,INV-2440,Vertex Tools,Equipment,143.94
+2026-04-20,INV-2548,CloudPeak Hosting,Software & IT,59.06
+2026-04-20,INV-2598,Lindström Office,Office supplies,621.17
+2026-04-20,INV-2666,Fjord Logistics,Shipping,640.43
+2026-04-20,INV-2667,CloudPeak Hosting,Software & IT,444.75
+2026-04-20,INV-2734,NordFleet Fuel,Vehicle costs,275.01
+2026-04-20,INV-2792,Fjord Logistics,Shipping,148.89
+2026-04-20,INV-2889,Vertex Tools,Equipment,214.88
+2026-04-21,INV-2330,NordFleet Fuel,Vehicle costs,587.05
+2026-04-21,INV-2393,PaperTrail Print,Printing,128.96
+2026-04-21,INV-2407,SafeDesk Insurance,Insurance,885.81
+2026-04-21,INV-2457,Baltic Catering,Meals & events,231.07
+2026-04-21,INV-2481,SafeDesk Insurance,Insurance,384.14
+2026-04-21,INV-2532,Baltic Catering,Meals & events,584.80
+2026-04-21,INV-2706,Lindström Office,Office supplies,287.78
+2026-04-21,INV-2735,SafeDesk Insurance,Insurance,764.96
+2026-04-21,INV-2739,Fjord Logistics,Shipping,377.02
+2026-04-21,INV-2841,SafeDesk Insurance,Insurance,705.72
+2026-04-22,INV-2398,CloudPeak Hosting,Software & IT,341.06
+2026-04-22,INV-2772,Baltic Catering,Meals & events,200.32
+2026-04-22,INV-2854,CloudPeak Hosting,Software & IT,328.67
+2026-04-23,INV-2609,KontorClean AS,Facilities,450.06
+2026-04-23,INV-2726,Fjord Logistics,Shipping,650.00
+2026-04-23,INV-2731,Fjord Logistics,Shipping,102.67
+2026-04-24,INV-2338,PaperTrail Print,Printing,210.15
+2026-04-24,INV-2408,Baltic Catering,Meals & events,627.66
+2026-04-24,INV-2613,Baltic Catering,Meals & events,138.17
+2026-04-24,INV-2719,Aurora Marketing,Advertising,337.32
+2026-04-24,INV-2850,KontorClean AS,Facilities,550.35
+2026-04-25,INV-2700,Lindström Office,Office supplies,440.72
+2026-04-25,INV-2766,CloudPeak Hosting,Software & IT,429.44
+2026-04-25,INV-2824,Fjord Logistics,Shipping,419.63
+2026-04-26,INV-2314,SafeDesk Insurance,Insurance,724.34
+2026-04-26,INV-2375,Baltic Catering,Meals & events,270.99
+2026-04-26,INV-2580,Aurora Marketing,Advertising,1486.71
+2026-04-26,INV-2767,KontorClean AS,Facilities,221.01
+2026-04-27,INV-2304,PaperTrail Print,Printing,282.03
+2026-04-27,INV-2489,Aurora Marketing,Advertising,260.19
+2026-04-27,INV-2635,Baltic Catering,Meals & events,170.62
+2026-04-27,INV-2782,Baltic Catering,Meals & events,578.77
+2026-04-27,INV-2871,CloudPeak Hosting,Software & IT,296.36
+2026-04-28,INV-2383,CloudPeak Hosting,Software & IT,310.95
+2026-04-28,INV-2394,Fjord Logistics,Shipping,564.06
+2026-04-28,INV-2664,SafeDesk Insurance,Insurance,260.09
+2026-04-29,INV-2308,Baltic Catering,Meals & events,673.90
+2026-04-29,INV-2370,KontorClean AS,Facilities,533.68
+2026-04-29,INV-2520,Vertex Tools,Equipment,843.83
+2026-04-29,INV-2665,SafeDesk Insurance,Insurance,803.53
+2026-04-29,INV-2683,PaperTrail Print,Printing,183.37
+2026-04-29,INV-2716,CloudPeak Hosting,Software & IT,352.05
+2026-04-29,INV-2391,Lindström Office,Office supplies,1287.50
+2026-04-30,INV-2328,Fjord Logistics,Shipping,797.98
+2026-04-30,INV-2352,SafeDesk Insurance,Insurance,215.25
+2026-04-30,INV-2465,KontorClean AS,Facilities,243.74
+2026-04-30,INV-2478,Fjord Logistics,Shipping,535.86
+2026-04-30,INV-2639,Baltic Catering,Meals & events,614.69
+2026-04-30,INV-2696,KontorClean AS,Facilities,525.16
+2026-04-30,INV-2698,SafeDesk Insurance,Insurance,799.27
+2026-04-30,INV-2788,NordFleet Fuel,Vehicle costs,746.03
+2026-05-01,INV-2319,Baltic Catering,Meals & events,321.47
+2026-05-01,INV-2459,PaperTrail Print,Printing,178.44
+2026-05-01,INV-2469,Baltic Catering,Meals & events,650.92
+2026-05-01,INV-2616,Vertex Tools,Equipment,745.15
+2026-05-01,INV-2743,CloudPeak Hosting,Software & IT,219.26
+2026-05-01,INV-2887,Vertex Tools,Equipment,240.07
+2026-05-02,INV-2358,Vertex Tools,Equipment,911.35
+2026-05-02,INV-2368,NordFleet Fuel,Vehicle costs,199.70
+2026-05-02,INV-2437,PaperTrail Print,Printing,308.84
+2026-05-02,INV-2439,NordFleet Fuel,Vehicle costs,625.15
+2026-05-02,INV-2508,NordFleet Fuel,Vehicle costs,664.86
+2026-05-02,INV-2510,PaperTrail Print,Printing,273.26
+2026-05-02,INV-2541,Baltic Catering,Meals & events,196.03
+2026-05-02,INV-2561,NordFleet Fuel,Vehicle costs,352.29
+2026-05-02,INV-2573,SafeDesk Insurance,Insurance,728.14
+2026-05-02,INV-2599,NordFleet Fuel,Vehicle costs,716.48
+2026-05-02,INV-2659,KontorClean AS,Facilities,529.17
+2026-05-02,INV-2672,NordFleet Fuel,Vehicle costs,436.55
+2026-05-02,INV-2749,SafeDesk Insurance,Insurance,576.00
+2026-05-02,INV-2798,CloudPeak Hosting,Software & IT,155.78
+2026-05-02,INV-2807,Aurora Marketing,Advertising,213.12
+2026-05-02,INV-2819,PaperTrail Print,Printing,122.39
+2026-05-02,INV-2856,Baltic Catering,Meals & events,572.13
+2026-05-02,INV-2406,NordFleet Fuel,Vehicle costs,845.00
+2026-05-03,INV-2325,Baltic Catering,Meals & events,544.44
+2026-05-03,INV-2362,NordFleet Fuel,Vehicle costs,220.94
+2026-05-03,INV-2446,PaperTrail Print,Printing,351.53
+2026-05-03,INV-2480,Lindström Office,Office supplies,343.16
+2026-05-03,INV-2533,NordFleet Fuel,Vehicle costs,159.50
+2026-05-03,INV-2579,KontorClean AS,Facilities,333.83
+2026-05-03,INV-2879,KontorClean AS,Facilities,504.30
+2026-05-04,INV-2334,PaperTrail Print,Printing,370.02
+2026-05-04,INV-2565,Fjord Logistics,Shipping,289.07
+2026-05-04,INV-2758,CloudPeak Hosting,Software & IT,333.69
+2026-05-04,INV-2796,Lindström Office,Office supplies,364.66
+2026-05-04,INV-2809,Fjord Logistics,Shipping,609.22
+2026-05-05,INV-2384,Vertex Tools,Equipment,507.87
+2026-05-05,INV-2453,KontorClean AS,Facilities,478.37
+2026-05-05,INV-2643,Lindström Office,Office supplies,788.28
+2026-05-05,INV-2846,CloudPeak Hosting,Software & IT,325.40
+2026-05-06,INV-2411,Vertex Tools,Equipment,276.01
+2026-05-06,INV-2551,Aurora Marketing,Advertising,875.68
+2026-05-06,INV-2571,Vertex Tools,Equipment,658.24
+2026-05-06,INV-2577,PaperTrail Print,Printing,178.34
+2026-05-06,INV-2707,NordFleet Fuel,Vehicle costs,432.21
+2026-05-06,INV-2821,Fjord Logistics,Shipping,138.98
+2026-05-07,INV-2416,Fjord Logistics,Shipping,697.59
+2026-05-07,INV-2501,NordFleet Fuel,Vehicle costs,800.57
+2026-05-07,INV-2506,Fjord Logistics,Shipping,709.64
+2026-05-07,INV-2581,NordFleet Fuel,Vehicle costs,709.05
+2026-05-08,INV-2389,Fjord Logistics,Shipping,164.10
+2026-05-08,INV-2438,NordFleet Fuel,Vehicle costs,492.98
+2026-05-08,INV-2694,Lindström Office,Office supplies,872.54
+2026-05-08,INV-2712,NordFleet Fuel,Vehicle costs,629.70
+2026-05-08,INV-2744,Fjord Logistics,Shipping,102.93
+2026-05-08,INV-2780,KontorClean AS,Facilities,491.28
+2026-05-08,INV-2847,SafeDesk Insurance,Insurance,716.61
+2026-05-09,INV-2315,Vertex Tools,Equipment,1085.52
+2026-05-09,INV-2522,Vertex Tools,Equipment,342.93
+2026-05-09,INV-2633,NordFleet Fuel,Vehicle costs,334.44
+2026-05-09,INV-2725,Aurora Marketing,Advertising,317.00
+2026-05-09,INV-2804,Baltic Catering,Meals & events,351.84
+2026-05-09,INV-2816,Lindström Office,Office supplies,346.10
+2026-05-09,INV-2828,PaperTrail Print,Printing,145.82
+2026-05-10,INV-2584,CloudPeak Hosting,Software & IT,381.58
+2026-05-11,INV-2342,Fjord Logistics,Shipping,225.79
+2026-05-11,INV-2486,Baltic Catering,Meals & events,155.94
+2026-05-11,INV-2518,CloudPeak Hosting,Software & IT,134.84
+2026-05-11,INV-2705,Fjord Logistics,Shipping,589.80
+2026-05-11,INV-2730,Aurora Marketing,Advertising,1231.42
+2026-05-11,INV-2760,Fjord Logistics,Shipping,775.61
+2026-05-11,INV-2860,NordFleet Fuel,Vehicle costs,394.45
+2026-05-11,INV-2894,KontorClean AS,Facilities,353.71
+2026-05-11,INV-2433,Baltic Catering,Meals & events,612.00
+2026-05-12,INV-2322,SafeDesk Insurance,Insurance,365.22
+2026-05-12,INV-2385,KontorClean AS,Facilities,565.22
+2026-05-12,INV-2425,SafeDesk Insurance,Insurance,694.27
+2026-05-12,INV-2519,Vertex Tools,Equipment,237.16
+2026-05-12,INV-2592,Lindström Office,Office supplies,1063.01
+2026-05-12,INV-2817,Lindström Office,Office supplies,1312.05
+2026-05-12,INV-2863,Baltic Catering,Meals & events,481.83
+2026-05-13,INV-2341,SafeDesk Insurance,Insurance,566.68
+2026-05-13,INV-2589,KontorClean AS,Facilities,536.10
+2026-05-13,INV-2610,Lindström Office,Office supplies,1130.91
+2026-05-13,INV-2670,SafeDesk Insurance,Insurance,221.52
+2026-05-13,INV-2717,CloudPeak Hosting,Software & IT,79.51
+2026-05-13,INV-2869,Baltic Catering,Meals & events,660.19
+2026-05-14,INV-2409,Baltic Catering,Meals & events,567.26
+2026-05-14,INV-2456,CloudPeak Hosting,Software & IT,163.60
+2026-05-14,INV-2516,PaperTrail Print,Printing,156.37
+2026-05-14,INV-2663,Lindström Office,Office supplies,401.51
+2026-05-14,INV-2811,SafeDesk Insurance,Insurance,307.39
+2026-05-15,INV-2684,Aurora Marketing,Advertising,1349.76
+2026-05-15,INV-2755,Aurora Marketing,Advertising,1134.40
+2026-05-15,INV-2812,PaperTrail Print,Printing,315.66
+2026-05-15,INV-2884,Vertex Tools,Equipment,714.53
+2026-05-16,INV-2388,Baltic Catering,Meals & events,627.33
+2026-05-16,INV-2621,KontorClean AS,Facilities,593.95
+2026-05-16,INV-2701,Fjord Logistics,Shipping,49.61
+2026-05-16,INV-2810,NordFleet Fuel,Vehicle costs,262.55
+2026-05-16,INV-2885,Fjord Logistics,Shipping,781.41
+2026-05-16,INV-2406,NordFleet Fuel,Vehicle costs,845.00
+2026-05-17,INV-2403,Lindström Office,Office supplies,357.30
+2026-05-17,INV-2404,NordFleet Fuel,Vehicle costs,715.30
+2026-05-17,INV-2820,CloudPeak Hosting,Software & IT,391.96
+2026-05-18,INV-2495,Aurora Marketing,Advertising,1071.60
+2026-05-18,INV-2641,PaperTrail Print,Printing,66.15
+2026-05-18,INV-2806,PaperTrail Print,Printing,58.35
+2026-05-18,INV-2843,PaperTrail Print,Printing,172.32
+2026-05-19,INV-2317,Baltic Catering,Meals & events,306.72
+2026-05-19,INV-2340,Baltic Catering,Meals & events,555.13
+2026-05-19,INV-2485,CloudPeak Hosting,Software & IT,99.64
+2026-05-19,INV-2611,Fjord Logistics,Shipping,370.17
+2026-05-19,INV-2687,CloudPeak Hosting,Software & IT,430.46
+2026-05-19,INV-2697,PaperTrail Print,Printing,74.64
+2026-05-19,INV-2753,Fjord Logistics,Shipping,738.04
+2026-05-19,INV-2778,Vertex Tools,Equipment,784.74
+2026-05-20,INV-2316,NordFleet Fuel,Vehicle costs,293.50
+2026-05-20,INV-2371,Baltic Catering,Meals & events,91.31
+2026-05-20,INV-2461,SafeDesk Insurance,Insurance,558.20
+2026-05-20,INV-2536,PaperTrail Print,Printing,190.43
+2026-05-20,INV-2624,Vertex Tools,Equipment,680.48
+2026-05-20,INV-2646,SafeDesk Insurance,Insurance,810.36
+2026-05-21,INV-2460,Aurora Marketing,Advertising,1462.02
+2026-05-21,INV-2462,CloudPeak Hosting,Software & IT,388.30
+2026-05-21,INV-2467,Lindström Office,Office supplies,523.69
+2026-05-21,INV-2590,SafeDesk Insurance,Insurance,380.50
+2026-05-21,INV-2623,Vertex Tools,Equipment,956.27
+2026-05-21,INV-2790,Vertex Tools,Equipment,1094.63
+2026-05-21,INV-2840,Fjord Logistics,Shipping,761.85
+2026-05-22,INV-2661,Lindström Office,Office supplies,444.16
+2026-05-22,INV-2721,NordFleet Fuel,Vehicle costs,783.88
+2026-05-23,INV-2321,Fjord Logistics,Shipping,247.14
+2026-05-23,INV-2349,CloudPeak Hosting,Software & IT,447.96
+2026-05-23,INV-2428,Fjord Logistics,Shipping,571.39
+2026-05-23,INV-2676,KontorClean AS,Facilities,318.87
+2026-05-23,INV-2822,Aurora Marketing,Advertising,1227.80
+2026-05-24,INV-2360,Aurora Marketing,Advertising,827.19
+2026-05-24,INV-2563,Fjord Logistics,Shipping,568.72
+2026-05-24,INV-2612,PaperTrail Print,Printing,230.25
+2026-05-24,INV-2656,SafeDesk Insurance,Insurance,895.51
+2026-05-24,INV-2692,NordFleet Fuel,Vehicle costs,357.02
+2026-05-24,INV-2862,PaperTrail Print,Printing,300.36
+2026-05-25,INV-2429,Vertex Tools,Equipment,771.63
+2026-05-25,INV-2442,KontorClean AS,Facilities,544.21
+2026-05-25,INV-2476,CloudPeak Hosting,Software & IT,135.21
+2026-05-25,INV-2494,Lindström Office,Office supplies,1165.48
+2026-05-25,INV-2653,PaperTrail Print,Printing,237.63
+2026-05-25,INV-2704,Aurora Marketing,Advertising,807.79
+2026-05-25,INV-2789,Lindström Office,Office supplies,150.30
+2026-05-25,INV-2799,Vertex Tools,Equipment,746.17
+2026-05-26,INV-2302,SafeDesk Insurance,Insurance,233.20
+2026-05-26,INV-2326,SafeDesk Insurance,Insurance,865.41
+2026-05-26,INV-2364,Baltic Catering,Meals & events,201.93
+2026-05-26,INV-2831,SafeDesk Insurance,Insurance,331.65
+2026-05-27,INV-2421,Fjord Logistics,Shipping,502.69
+2026-05-27,INV-2424,Fjord Logistics,Shipping,97.83
+2026-05-27,INV-2497,Baltic Catering,Meals & events,197.44
+2026-05-27,INV-2729,Vertex Tools,Equipment,697.09
+2026-05-27,INV-2834,SafeDesk Insurance,Insurance,410.43
+2026-05-27,INV-2433,Baltic Catering,Meals & events,612.00
+2026-05-28,INV-2436,KontorClean AS,Facilities,326.66
+2026-05-28,INV-2529,KontorClean AS,Facilities,276.95
+2026-05-28,INV-2596,NordFleet Fuel,Vehicle costs,143.76
+2026-05-28,INV-2677,KontorClean AS,Facilities,146.01
+2026-05-28,INV-2752,Vertex Tools,Equipment,1091.17
+2026-05-28,INV-2842,Fjord Logistics,Shipping,621.13
+2026-05-28,INV-2882,Baltic Catering,Meals & events,343.53
+2026-05-29,INV-2306,Vertex Tools,Equipment,697.48
+2026-05-29,INV-2450,PaperTrail Print,Printing,344.54
+2026-05-29,INV-2586,Baltic Catering,Meals & events,418.53
+2026-05-29,INV-2833,Fjord Logistics,Shipping,76.98
+2026-05-30,INV-2373,CloudPeak Hosting,Software & IT,149.09
+2026-05-30,INV-2386,Lindström Office,Office supplies,899.93
+2026-05-30,INV-2413,Vertex Tools,Equipment,462.67
+2026-05-30,INV-2474,Vertex Tools,Equipment,440.31
+2026-05-30,INV-2881,CloudPeak Hosting,Software & IT,59.72
+2026-06-01,INV-2307,Baltic Catering,Meals & events,347.79
+2026-06-01,INV-2445,Baltic Catering,Meals & events,405.95
+2026-06-01,INV-2490,NordFleet Fuel,Vehicle costs,708.88
+2026-06-01,INV-2572,KontorClean AS,Facilities,347.51
+2026-06-01,INV-2793,KontorClean AS,Facilities,517.24
+2026-06-01,INV-2813,KontorClean AS,Facilities,344.48
+2026-06-01,INV-2452,Vertex Tools,Equipment,918.00
+2026-06-03,INV-2530,CloudPeak Hosting,Software & IT,77.03
+2026-06-03,INV-2637,CloudPeak Hosting,Software & IT,436.27
+2026-06-03,INV-2479,CloudPeak Hosting,Software & IT,350.00
+2026-06-04,INV-2395,PaperTrail Print,Printing,121.64
+2026-06-04,INV-2454,PaperTrail Print,Printing,251.23
+2026-06-04,INV-2505,Baltic Catering,Meals & events,219.39
+2026-06-04,INV-2531,Aurora Marketing,Advertising,257.42
+2026-06-05,INV-2329,PaperTrail Print,Printing,66.36
+2026-06-05,INV-2443,Aurora Marketing,Advertising,729.50
+2026-06-05,INV-2570,SafeDesk Insurance,Insurance,666.55
+2026-06-05,INV-2576,Baltic Catering,Meals & events,658.92
+2026-06-05,INV-2628,SafeDesk Insurance,Insurance,817.97
+2026-06-05,INV-2651,CloudPeak Hosting,Software & IT,77.89
+2026-06-05,INV-2892,Baltic Catering,Meals & events,697.54
+2026-06-05,INV-2897,CloudPeak Hosting,Software & IT,280.56
+2026-06-06,INV-2426,CloudPeak Hosting,Software & IT,159.21
+2026-06-06,INV-2583,Fjord Logistics,Shipping,246.72
+2026-06-06,INV-2636,PaperTrail Print,Printing,350.15
+2026-06-06,INV-2751,NordFleet Fuel,Vehicle costs,602.75
+2026-06-06,INV-2867,Aurora Marketing,Advertising,1470.53
+2026-06-06,INV-2895,Aurora Marketing,Advertising,812.98
+2026-06-07,INV-2354,NordFleet Fuel,Vehicle costs,259.92
+2026-06-07,INV-2378,Lindström Office,Office supplies,185.75
+2026-06-07,INV-2710,Vertex Tools,Equipment,231.54
+2026-06-07,INV-2732,PaperTrail Print,Printing,101.90
+2026-06-07,INV-2765,Aurora Marketing,Advertising,674.65
+2026-06-07,INV-2786,KontorClean AS,Facilities,182.20
+2026-06-07,INV-2855,Fjord Logistics,Shipping,214.30
+2026-06-07,INV-2886,Fjord Logistics,Shipping,469.05
+2026-06-08,INV-2350,KontorClean AS,Facilities,331.23
+2026-06-08,INV-2558,KontorClean AS,Facilities,429.24
+2026-06-08,INV-2826,Fjord Logistics,Shipping,246.37
+2026-06-08,INV-2845,KontorClean AS,Facilities,299.62
+2026-06-08,INV-2868,NordFleet Fuel,Vehicle costs,188.53
+2026-06-08,INV-2870,Fjord Logistics,Shipping,720.67
+2026-06-09,INV-2521,SafeDesk Insurance,Insurance,645.66
+2026-06-09,INV-2452,Vertex Tools,Equipment,918.00
+2026-06-10,INV-2311,KontorClean AS,Facilities,171.16
+2026-06-10,INV-2345,NordFleet Fuel,Vehicle costs,703.30
+2026-06-10,INV-2387,NordFleet Fuel,Vehicle costs,239.05
+2026-06-10,INV-2498,SafeDesk Insurance,Insurance,775.49
+2026-06-10,INV-2776,Vertex Tools,Equipment,354.39
+2026-06-10,INV-2803,SafeDesk Insurance,Insurance,222.00
+2026-06-10,INV-2899,CloudPeak Hosting,Software & IT,32.44
+2026-06-11,INV-2348,Vertex Tools,Equipment,860.16
+2026-06-11,INV-2356,Vertex Tools,Equipment,249.67
+2026-06-11,INV-2376,SafeDesk Insurance,Insurance,254.50
+2026-06-11,INV-2464,PaperTrail Print,Printing,310.95
+2026-06-11,INV-2660,Fjord Logistics,Shipping,725.78
+2026-06-11,INV-2769,PaperTrail Print,Printing,323.12
+2026-06-11,INV-2479,CloudPeak Hosting,Software & IT,350.00
+2026-06-12,INV-2313,NordFleet Fuel,Vehicle costs,306.27
+2026-06-12,INV-2346,KontorClean AS,Facilities,190.91
+2026-06-12,INV-2514,KontorClean AS,Facilities,370.15
+2026-06-12,INV-2564,Aurora Marketing,Advertising,203.21
+2026-06-12,INV-2587,Fjord Logistics,Shipping,620.97
+2026-06-12,INV-2747,SafeDesk Insurance,Insurance,906.59
+2026-06-12,INV-2857,Fjord Logistics,Shipping,477.07
+2026-06-13,INV-2648,SafeDesk Insurance,Insurance,449.44
+2026-06-13,INV-2691,Baltic Catering,Meals & events,126.59
+2026-06-13,INV-2720,PaperTrail Print,Printing,322.51
+2026-06-13,INV-2763,CloudPeak Hosting,Software & IT,187.58
+2026-06-14,INV-2483,NordFleet Fuel,Vehicle costs,856.12
+2026-06-14,INV-2502,KontorClean AS,Facilities,409.06
+2026-06-15,INV-2422,Aurora Marketing,Advertising,425.61
+2026-06-15,INV-2487,CloudPeak Hosting,Software & IT,314.16
+2026-06-15,INV-2557,CloudPeak Hosting,Software & IT,45.94
+2026-06-15,INV-2695,NordFleet Fuel,Vehicle costs,486.23
+2026-06-15,INV-2723,Fjord Logistics,Shipping,369.11
+2026-06-15,INV-2748,KontorClean AS,Facilities,429.40
+2026-06-15,INV-2805,Vertex Tools,Equipment,528.24
+2026-06-15,INV-2877,Vertex Tools,Equipment,528.26
+2026-06-15,INV-2891,Fjord Logistics,Shipping,589.45
+2026-06-16,INV-2419,Baltic Catering,Meals & events,677.15
+2026-06-16,INV-2435,Aurora Marketing,Advertising,1029.66
+2026-06-16,INV-2559,Baltic Catering,Meals & events,355.89
+2026-06-16,INV-2896,Vertex Tools,Equipment,465.84
+2026-06-17,INV-2470,Aurora Marketing,Advertising,968.37
+2026-06-17,INV-2500,Aurora Marketing,Advertising,539.17
+2026-06-17,INV-2538,CloudPeak Hosting,Software & IT,445.80
+2026-06-17,INV-2673,PaperTrail Print,Printing,72.62
+2026-06-18,INV-2379,NordFleet Fuel,Vehicle costs,117.09
+2026-06-18,INV-2381,SafeDesk Insurance,Insurance,239.01
+2026-06-18,INV-2535,SafeDesk Insurance,Insurance,787.24
+2026-06-18,INV-2549,CloudPeak Hosting,Software & IT,344.31
+2026-06-18,INV-2680,Aurora Marketing,Advertising,919.31
+2026-06-18,INV-2715,Aurora Marketing,Advertising,229.43
+2026-06-18,INV-2745,SafeDesk Insurance,Insurance,580.16
+2026-06-18,INV-2762,Baltic Catering,Meals & events,522.39
+2026-06-19,INV-2310,Fjord Logistics,Shipping,244.71
+2026-06-19,INV-2318,NordFleet Fuel,Vehicle costs,593.38
+2026-06-19,INV-2555,Fjord Logistics,Shipping,234.03
+2026-06-19,INV-2629,Vertex Tools,Equipment,905.89
+2026-06-19,INV-2678,Fjord Logistics,Shipping,156.99
+2026-06-19,INV-2682,PaperTrail Print,Printing,183.42
+2026-06-19,INV-2709,KontorClean AS,Facilities,326.60
+2026-06-19,INV-2797,PaperTrail Print,Printing,217.08
+2026-06-19,INV-2837,Baltic Catering,Meals & events,503.63
+2026-06-20,INV-2431,Baltic Catering,Meals & events,437.15
+2026-06-20,INV-2441,KontorClean AS,Facilities,526.37
+2026-06-20,INV-2448,KontorClean AS,Facilities,509.35
+2026-06-20,INV-2774,KontorClean AS,Facilities,249.61
+2026-06-20,INV-2795,KontorClean AS,Facilities,112.57
+2026-06-20,INV-2890,Aurora Marketing,Advertising,756.30
+2026-06-21,INV-2539,SafeDesk Insurance,Insurance,253.97
+2026-06-21,INV-2600,Fjord Logistics,Shipping,567.99
+2026-06-21,INV-2630,Vertex Tools,Equipment,365.61
+2026-06-21,INV-2679,CloudPeak Hosting,Software & IT,295.53
+2026-06-21,INV-2770,Fjord Logistics,Shipping,143.94
+2026-06-22,INV-2540,Vertex Tools,Equipment,326.80
+2026-06-22,INV-2603,Fjord Logistics,Shipping,587.63
+2026-06-22,INV-2631,NordFleet Fuel,Vehicle costs,602.93
+2026-06-22,INV-2736,Baltic Catering,Meals & events,391.41
+2026-06-22,INV-2741,KontorClean AS,Facilities,258.38
+2026-06-22,INV-2872,Baltic Catering,Meals & events,274.72
+2026-06-22,INV-2878,KontorClean AS,Facilities,377.33
+2026-06-23,INV-2339,CloudPeak Hosting,Software & IT,242.73
+2026-06-23,INV-2396,NordFleet Fuel,Vehicle costs,415.80
+2026-06-23,INV-2525,Baltic Catering,Meals & events,619.76
+2026-06-23,INV-2608,NordFleet Fuel,Vehicle costs,651.27
+2026-06-23,INV-2649,NordFleet Fuel,Vehicle costs,752.04
+2026-06-23,INV-2866,PaperTrail Print,Printing,237.79
+2026-06-24,INV-2324,Aurora Marketing,Advertising,815.34
+2026-06-24,INV-2417,Fjord Logistics,Shipping,429.60
+2026-06-24,INV-2471,NordFleet Fuel,Vehicle costs,420.03
+2026-06-24,INV-2675,KontorClean AS,Facilities,582.37
+2026-06-24,INV-2733,Fjord Logistics,Shipping,660.35
+2026-06-24,INV-2738,SafeDesk Insurance,Insurance,673.77
+2026-06-24,INV-2873,PaperTrail Print,Printing,93.18
+2026-06-25,INV-2367,Lindström Office,Office supplies,1399.05
+2026-06-25,INV-2390,SafeDesk Insurance,Insurance,596.13
+2026-06-25,INV-2654,Aurora Marketing,Advertising,293.58
+2026-06-26,INV-2382,Aurora Marketing,Advertising,996.32
+2026-06-26,INV-2546,SafeDesk Insurance,Insurance,796.85
+2026-06-26,INV-2594,Aurora Marketing,Advertising,1298.97
+2026-06-26,INV-2699,SafeDesk Insurance,Insurance,815.51
+2026-06-26,INV-2702,SafeDesk Insurance,Insurance,502.57
+2026-06-26,INV-2829,Fjord Logistics,Shipping,268.21
+2026-06-26,INV-2874,Baltic Catering,Meals & events,470.93
+2026-06-27,INV-2562,Fjord Logistics,Shipping,123.97
+2026-06-27,INV-2618,CloudPeak Hosting,Software & IT,32.96
+2026-06-27,INV-2714,PaperTrail Print,Printing,141.40
+2026-06-27,INV-2764,Baltic Catering,Meals & events,518.73
+2026-06-27,INV-2835,NordFleet Fuel,Vehicle costs,595.51
+2026-06-28,INV-2556,Vertex Tools,Equipment,939.24
+2026-06-28,INV-2601,Fjord Logistics,Shipping,693.80
+2026-06-28,INV-2620,CloudPeak Hosting,Software & IT,259.12
+2026-06-28,INV-2645,Fjord Logistics,Shipping,610.50
+2026-06-28,INV-2647,NordFleet Fuel,Vehicle costs,256.41
+2026-06-28,INV-2836,PaperTrail Print,Printing,90.20
+2026-06-29,INV-2335,NordFleet Fuel,Vehicle costs,803.22
+2026-06-29,INV-2615,SafeDesk Insurance,Insurance,385.81
+2026-06-29,INV-2852,NordFleet Fuel,Vehicle costs,872.75
+2026-06-29,INV-2865,KontorClean AS,Facilities,363.51
+2026-06-30,INV-2513,Aurora Marketing,Advertising,502.79
+2026-06-30,INV-2622,Aurora Marketing,Advertising,512.64
+2026-06-30,INV-2657,Lindström Office,Office supplies,569.10
+
