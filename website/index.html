@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nordlys Coffee</title>
+<style>
+  :root {
+    --bg: #14100d;
+    --card: #1f1813;
+    --cream: #f3e9dc;
+    --amber: #e8a857;
+    --copper: #c97b3d;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--cream);
+    font-family: Georgia, 'Times New Roman', serif;
+    line-height: 1.6;
+  }
+  header {
+    min-height: 92vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 48px 24px;
+    background:
+      radial-gradient(ellipse at 30% 20%, rgba(232,168,87,.18), transparent 55%),
+      radial-gradient(ellipse at 75% 80%, rgba(201,123,61,.14), transparent 50%),
+      var(--bg);
+  }
+  .badge {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px; letter-spacing: 4px;
+    color: var(--amber);
+    border: 1px solid rgba(232,168,87,.45);
+    padding: 8px 18px; border-radius: 999px;
+    margin-bottom: 28px;
+  }
+  h1 { font-size: clamp(52px, 14vw, 96px); font-weight: normal; letter-spacing: 2px; }
+  h1 span { color: var(--amber); font-style: italic; }
+  .tagline { margin-top: 14px; opacity: .75; font-size: 18px; font-style: italic; }
+  .cta {
+    margin-top: 36px;
+    background: var(--amber); color: #241a10;
+    font-family: Helvetica, Arial, sans-serif; font-weight: bold;
+    padding: 15px 34px; border-radius: 999px; text-decoration: none;
+    letter-spacing: 1px;
+  }
+  section { padding: 72px 24px; max-width: 680px; margin: 0 auto; }
+  h2 {
+    font-size: 34px; font-weight: normal; margin-bottom: 30px;
+    text-align: center;
+  }
+  h2::after {
+    content: ""; display: block; width: 54px; height: 2px;
+    background: var(--copper); margin: 14px auto 0;
+  }
+  .menu-item {
+    display: flex; justify-content: space-between; align-items: baseline;
+    background: var(--card);
+    border: 1px solid rgba(232,168,87,.12);
+    padding: 18px 22px; border-radius: 14px; margin-bottom: 14px;
+  }
+  .menu-item small { display: block; opacity: .6; font-size: 14px; }
+  .price { color: var(--amber); font-size: 20px; white-space: nowrap; margin-left: 16px; }
+  .hours {
+    background: var(--card);
+    border: 1px solid rgba(232,168,87,.12);
+    border-radius: 16px; padding: 28px;
+  }
+  .hours .row {
+    display: flex; justify-content: space-between;
+    padding: 9px 0; border-bottom: 1px dashed rgba(243,233,220,.14);
+  }
+  .hours .row:last-child { border-bottom: none; }
+  footer {
+    text-align: center; padding: 42px 24px 60px;
+    opacity: .65; font-size: 15px;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <div class="badge">EST. 2026</div>
+    <h1>Nordlys <span>Coffee</span></h1>
+    <p class="tagline">Slow mornings. Northern light. Proper coffee.</p>
+    <a class="cta" href="#menu">SEE THE MENU</a>
+  </header>
+
+  <section id="menu">
+    <h2>The Menu</h2>
+    <div class="menu-item"><div>Flat White<small>double ristretto, silky oat milk</small></div><div class="price">52 kr</div></div>
+    <div class="menu-item"><div>Filter of the Day<small>single origin, brewed by hand</small></div><div class="price">45 kr</div></div>
+    <div class="menu-item"><div>Iced Nordlys<small>cold brew, tonic, orange peel</small></div><div class="price">58 kr</div></div>
+    <div class="menu-item"><div>Cardamom Bun<small>baked at 06:00 every morning</small></div><div class="price">39 kr</div></div>
+    <div class="menu-item"><div>Skillingsbolle<small>cinnamon, butter, no regrets</small></div><div class="price">42 kr</div></div>
+  </section>
+
+  <section>
+    <h2>Opening Hours</h2>
+    <div class="hours">
+      <div class="row"><span>Monday to Friday</span><span>07:00 – 18:00</span></div>
+      <div class="row"><span>Saturday</span><span>08:00 – 17:00</span></div>
+      <div class="row"><span>Sunday</span><span>09:00 – 16:00</span></div>
+    </div>
+  </section>
+
+  <footer>
+    Come for the coffee. Stay for the light.
+  </footer>
+</body>
+</html>
+
