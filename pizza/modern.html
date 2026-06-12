@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tony's Pizza Palace · Family pizza since 1987</title>
+<style>
+  :root {
+    --bg: #16100c;
+    --card: #221811;
+    --cream: #f5ead9;
+    --tomato: #e4572e;
+    --basil: #7fa650;
+    --line: rgba(228, 87, 46, 0.25);
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: var(--bg); color: var(--cream); font-family: Georgia, serif; line-height: 1.6; }
+  header {
+    min-height: 780px; display: flex; flex-direction: column;
+    justify-content: center; align-items: center; text-align: center; padding: 48px 24px;
+    background:
+      radial-gradient(ellipse at 25% 15%, rgba(228, 87, 46, .22), transparent 55%),
+      radial-gradient(ellipse at 80% 85%, rgba(127, 166, 80, .14), transparent 50%),
+      var(--bg);
+  }
+  .badge {
+    font-family: Helvetica, sans-serif; font-size: 12px; letter-spacing: 4px;
+    color: var(--tomato); border: 1px solid var(--line);
+    padding: 8px 18px; border-radius: 999px; margin-bottom: 26px;
+  }
+  h1 { font-size: clamp(48px, 13vw, 92px); font-weight: normal; letter-spacing: 1px; }
+  h1 em { color: var(--tomato); font-style: italic; }
+  .tagline { margin-top: 14px; opacity: .8; font-size: 19px; font-style: italic; }
+  .cta {
+    margin-top: 34px; background: var(--tomato); color: #fff;
+    font-family: Helvetica, sans-serif; font-weight: bold;
+    padding: 15px 36px; border-radius: 999px; text-decoration: none; letter-spacing: 1px;
+  }
+  .special {
+    margin-top: 22px; font-family: Helvetica, sans-serif; font-size: 14px;
+    color: var(--basil); letter-spacing: 2px;
+  }
+  section { padding: 70px 24px; max-width: 660px; margin: 0 auto; }
+  h2 { font-size: 32px; font-weight: normal; text-align: center; margin-bottom: 28px; }
+  h2::after { content: ""; display: block; width: 56px; height: 2px; background: var(--tomato); margin: 14px auto 0; }
+  .item {
+    display: flex; justify-content: space-between; align-items: baseline;
+    background: var(--card); border: 1px solid var(--line);
+    padding: 18px 22px; border-radius: 14px; margin-bottom: 13px;
+  }
+  .item small { display: block; opacity: .65; font-size: 14px; }
+  .price { color: var(--tomato); font-size: 20px; margin-left: 18px; white-space: nowrap; }
+  .hot { color: var(--tomato); font-size: 13px; letter-spacing: 1px; font-family: Helvetica, sans-serif; }
+  .hours {
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 16px; padding: 26px; text-align: center; font-size: 18px;
+  }
+  .hours strong { color: var(--basil); }
+  footer { text-align: center; padding: 40px 24px 60px; opacity: .65; font-size: 15px; }
+</style>
+</head>
+<body>
+  <header>
+    <div class="badge">FAMILY OWNED SINCE 1987</div>
+    <h1>Tony's <em>Pizza</em> Palace</h1>
+    <p class="tagline">Same oven. Same family. Better website.</p>
+    <a class="cta" href="#menu">SEE THE MENU</a>
+    <p class="special">THIS WEEK: TWO PIZZAS, ONE PRICE</p>
+  </header>
+
+  <section id="menu">
+    <h2>The Menu</h2>
+    <div class="item"><div>Margherita<small>Tony's favorite, san marzano &amp; basil</small></div><div class="price">$9.99</div></div>
+    <div class="item"><div>Pepperoni Supreme<small>double pepperoni, honey drizzle</small></div><div class="price">$12.99</div></div>
+    <div class="item"><div>Hawaii<small>no judgement served here</small></div><div class="price">$11.99</div></div>
+    <div class="item"><div>Quattro Formaggi<small>four cheeses, zero restraint</small></div><div class="price">$13.99</div></div>
+    <div class="item"><div>Tony's Inferno <span class="hot">VERY HOT</span><small>nduja, habanero, brave hearts only</small></div><div class="price">$14.99</div></div>
+  </section>
+
+  <section>
+    <h2>Hours</h2>
+    <div class="hours">
+      Tuesday to Sunday · 11:00 until late<br>
+      <strong>Closed Mondays</strong> · that's Tony's bowling night
+    </div>
+  </section>
+
+  <footer>
+    Walk-ins welcome · est. 1998 homepage, lovingly retired<br>
+    &copy; 2026 Tony's Pizza Palace
+  </footer>
+</body>
+</html>
+
