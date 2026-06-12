@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>runbyclaude · the receipts</title>
+<style>
+  :root {
+    --bg: #070b16; --card: #0e1628; --card2: #121c33;
+    --line: rgba(57, 210, 255, 0.16); --line2: rgba(57, 210, 255, 0.35);
+    --cyan: #39d2ff; --text: #e8f1f8; --muted: #8295ad; --good: #3ddc97;
+    --mono: "SF Mono", ui-monospace, Menlo, monospace;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background:
+      radial-gradient(ellipse at 15% 0%, rgba(57,210,255,.08), transparent 50%),
+      radial-gradient(ellipse at 90% 100%, rgba(80,120,255,.07), transparent 55%),
+      var(--bg);
+    color: var(--text);
+    font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+    min-height: 100vh; padding: 48px 20px 80px;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; }
+  .tag { font-family: var(--mono); font-size: 11px; letter-spacing: 3px; color: var(--cyan); opacity: .8; }
+  h1 { font-size: clamp(30px, 7vw, 44px); margin: 14px 0 10px; font-weight: 800; }
+  h1 span { color: var(--cyan); }
+  .sub { color: var(--muted); font-size: 16px; line-height: 1.6; max-width: 560px; }
+  .cards { margin-top: 40px; display: grid; gap: 18px; }
+  .card {
+    background: linear-gradient(180deg, var(--card2), var(--card));
+    border: 1px solid var(--line); border-radius: 16px; padding: 24px;
+  }
+  .card .k { font-family: var(--mono); font-size: 10px; letter-spacing: 2px; color: var(--cyan); opacity: .75; margin-bottom: 10px; }
+  .card h2 { font-size: 20px; margin-bottom: 8px; }
+  .card p { color: var(--muted); font-size: 14.5px; line-height: 1.65; margin-bottom: 16px; }
+  .btns { display: flex; flex-wrap: wrap; gap: 10px; }
+  a.btn {
+    display: inline-block; text-decoration: none;
+    font-size: 13.5px; font-weight: 600; color: var(--cyan);
+    border: 1px solid var(--line2); border-radius: 10px;
+    padding: 9px 16px; background: rgba(57,210,255,.07);
+  }
+  a.btn:hover { background: rgba(57,210,255,.16); }
+  a.btn.solid { background: var(--cyan); color: #06121f; }
+  .answer { font-family: var(--mono); font-size: 12px; color: var(--good); margin-top: 12px; }
+  footer { margin-top: 56px; text-align: center; color: var(--muted); font-size: 13px; line-height: 1.8; }
+  footer a { color: var(--cyan); text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="tag">RUNBYCLAUDE // PROOF</div>
+  <h1>Every demo on the page is <span>real</span>.</h1>
+  <p class="sub">These are the actual files from our Instagram reels. Click them, download them,
+  run them, check the numbers. If a demo can't survive inspection, we don't post it.</p>
+
+  <div class="cards">
+
+    <div class="card">
+      <div class="k">REEL 001 // WEBSITE FROM ONE SENTENCE</div>
+      <h2>Nordlys Coffee</h2>
+      <p>The complete website Claude wrote from a single sentence. 116 lines, untouched,
+      exactly as shown in the reel.</p>
+      <div class="btns">
+        <a class="btn solid" href="website/index.html">open the site</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="k">REEL // THE €4,000 MISTAKE</div>
+      <h2>The spreadsheet hunt</h2>
+      <p>The real 492-row expense export with five duplicated invoices hidden in it,
+      plus the exact check that finds them. Download both and verify the €4,012.50 yourself.</p>
+      <div class="btns">
+        <a class="btn solid" href="spreadsheet/expenses_q2.csv" download>download the CSV</a>
+        <a class="btn" href="spreadsheet/find_duplicates.py" download>the checker script</a>
+      </div>
+      <div class="answer">spoiler: INV-2391, 2406, 2433, 2452, 2479 · EUR 4,012.50</div>
+    </div>
+
+    <div class="card">
+      <div class="k">REEL // THE UGLIEST WEBSITE</div>
+      <h2>Tony's Pizza Palace, 1998 vs 2026</h2>
+      <p>We built the 1998 horror on purpose. Then one sentence: "Redesign this. Keep every
+      word of content. Make it 2026." Both versions are live. Same menu, same prices.</p>
+      <div class="btns">
+        <a class="btn" href="pizza/ugly.html">the 1998 version</a>
+        <a class="btn solid" href="pizza/modern.html">the 2026 redesign</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="k">REEL // A REAL IPHONE APP</div>
+      <h2>Orbit, the focus timer</h2>
+      <p>103 lines of SwiftUI, written by Claude from one sentence. If you have a Mac with
+      Xcode: drop these two files into a new SwiftUI project and press run.</p>
+      <div class="btns">
+        <a class="btn solid" href="orbit/ContentView.swift" download>ContentView.swift</a>
+        <a class="btn" href="orbit/OrbitApp.swift" download>OrbitApp.swift</a>
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    made with Claude · curated by a human<br>
+    <a href="https://www.instagram.com/runbyclaude/">@runbyclaude on Instagram</a>
+  </footer>
+</div>
+</body>
+</html>
+
