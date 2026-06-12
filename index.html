@@ -44,6 +44,11 @@
   a.btn:hover { background: rgba(57,210,255,.16); }
   a.btn.solid { background: var(--cyan); color: #06121f; }
   .answer { font-family: var(--mono); font-size: 12px; color: var(--good); margin-top: 12px; }
+  video.simvid {
+    display: block; width: 100%; max-width: 280px;
+    border: 1px solid var(--line2); border-radius: 16px;
+    margin: 4px 0 16px; background: #000;
+  }
   footer { margin-top: 56px; text-align: center; color: var(--muted); font-size: 13px; line-height: 1.8; }
   footer a { color: var(--cyan); text-decoration: none; }
 </style>
@@ -93,9 +98,14 @@
     <div class="card">
       <div class="k">REEL // A REAL IPHONE APP</div>
       <h2>Orbit, the focus timer</h2>
-      <p>103 lines of SwiftUI, written by Claude from one sentence. Read every line in
-      the browser. If you have a Mac with Xcode: drop these two files into a new
-      SwiftUI project and press run.</p>
+      <p>103 lines of SwiftUI, written by Claude from one sentence. Watch it run, then
+      read every line in the browser. If you have a Mac with Xcode: drop these two
+      files into a new SwiftUI project and press run.</p>
+      <video class="simvid" controls playsinline preload="auto">
+        <source src="orbit/orbit_run.mp4" type="video/mp4">
+      </video>
+      <div class="answer" style="margin: -8px 0 16px;">real iOS Simulator recording · one take, unedited ·
+      demo mode in the code compresses a 25:00 session into 75 s</div>
       <div class="btns">
         <a class="btn solid" href="https://github.com/runbyclaude/demos/blob/main/orbit/ContentView.swift">read ContentView.swift</a>
         <a class="btn" href="https://github.com/runbyclaude/demos/blob/main/orbit/OrbitApp.swift">read OrbitApp.swift</a>
